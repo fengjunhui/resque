@@ -1,0 +1,14 @@
+{
+    "name": "jason-von/resque",
+    "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+    "keywords": ["queue", "redis"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason Von",
+            "email": "fengjunhui31@outlook.com",
+            "homepage": "https://github.com/fengjunhui",
+            "role": "Developer"
+        }
+    ]
+}
